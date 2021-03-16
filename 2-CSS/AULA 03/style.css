@@ -1,0 +1,12 @@
+body{
+    background-image:url(math.png) ;
+    background-repeat: no-repeat;
+    /* background-position: 100% 10%;*/
+    background-position: center center; 
+    background-size: cover; /* cobre a pg toda*/
+    background-attachment: fixed; /* a img de fundo fica fixa e o conteudo da pg move*/
+}
+
+p{
+    color: #222222;
+}
